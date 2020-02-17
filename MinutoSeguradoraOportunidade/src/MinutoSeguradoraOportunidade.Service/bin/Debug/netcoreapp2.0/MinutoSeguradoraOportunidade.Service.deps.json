@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "MinutoSeguradoraOportunidade.Service/1.0.0": {
+        "dependencies": {
+          "MinutoSeguradoraOportunidade.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MinutoSeguradoraOportunidade.Service.dll": {}
+        }
+      },
+      "MinutoSeguradoraOportunidade.Domain/1.0.0": {
+        "runtime": {
+          "MinutoSeguradoraOportunidade.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinutoSeguradoraOportunidade.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinutoSeguradoraOportunidade.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

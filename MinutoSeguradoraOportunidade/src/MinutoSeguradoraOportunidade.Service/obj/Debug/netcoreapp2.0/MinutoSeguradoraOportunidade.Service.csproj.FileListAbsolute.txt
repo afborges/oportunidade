@@ -1,0 +1,11 @@
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\bin\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.deps.json
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\bin\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\bin\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.pdb
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\bin\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Domain.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\bin\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Domain.pdb
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\obj\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.csprojAssemblyReference.cache
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\obj\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.AssemblyInfoInputs.cache
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\obj\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.AssemblyInfo.cs
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\obj\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.csproj.CopyComplete
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\obj\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Service\obj\Debug\netcoreapp2.0\MinutoSeguradoraOportunidade.Service.pdb

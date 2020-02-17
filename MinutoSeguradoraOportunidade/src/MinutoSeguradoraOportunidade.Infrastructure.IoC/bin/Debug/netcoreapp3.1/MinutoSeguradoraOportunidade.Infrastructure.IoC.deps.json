@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinutoSeguradoraOportunidade.Infrastructure.IoC/1.0.0": {
+        "dependencies": {
+          "MinutoSeguradoraOportunidade.Service": "1.0.0",
+          "Unity": "5.11.3"
+        },
+        "runtime": {
+          "MinutoSeguradoraOportunidade.Infrastructure.IoC.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {},
+      "Unity/5.11.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "5.11.3.0",
+            "fileVersion": "5.11.3.0"
+          },
+          "lib/netcoreapp2.0/Unity.Container.dll": {
+            "assemblyVersion": "5.11.5.0",
+            "fileVersion": "5.11.5.0"
+          }
+        }
+      },
+      "MinutoSeguradoraOportunidade.Domain/1.0.0": {
+        "runtime": {
+          "MinutoSeguradoraOportunidade.Domain.dll": {}
+        }
+      },
+      "MinutoSeguradoraOportunidade.Service/1.0.0": {
+        "dependencies": {
+          "MinutoSeguradoraOportunidade.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MinutoSeguradoraOportunidade.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinutoSeguradoraOportunidade.Infrastructure.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "Unity/5.11.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vDIGRiUm48YzVDd5B3BeVloQyK6MUVwn6H4uayX21MjlPoIbdrhwSlSXQ+xlByA9530bnmSHNI0uKSdmZOKPtQ==",
+      "path": "unity/5.11.3",
+      "hashPath": "unity.5.11.3.nupkg.sha512"
+    },
+    "MinutoSeguradoraOportunidade.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinutoSeguradoraOportunidade.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

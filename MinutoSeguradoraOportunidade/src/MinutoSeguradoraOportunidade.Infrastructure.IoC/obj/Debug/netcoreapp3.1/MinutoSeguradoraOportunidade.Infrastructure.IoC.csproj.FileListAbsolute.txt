@@ -1,0 +1,13 @@
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.deps.json
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.AssemblyInfo.cs
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.pdb
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Domain.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Service.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Service.pdb
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Domain.pdb
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.csproj.CopyComplete
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.dll
+C:\tmp\opo\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.IoC\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.IoC.pdb

@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Infrastructure.RSS\\MinutoSeguradoraOportunidade.Infrastructure.RSS.csproj": {}
+  },
+  "projects": {
+    "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Domain\\MinutoSeguradoraOportunidade.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Domain\\MinutoSeguradoraOportunidade.Domain.csproj",
+        "projectName": "MinutoSeguradoraOportunidade.Domain",
+        "projectPath": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Domain\\MinutoSeguradoraOportunidade.Domain.csproj",
+        "packagesPath": "C:\\Users\\afarinchon\\.nuget\\packages\\",
+        "outputPath": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\afarinchon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Infrastructure.RSS\\MinutoSeguradoraOportunidade.Infrastructure.RSS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Infrastructure.RSS\\MinutoSeguradoraOportunidade.Infrastructure.RSS.csproj",
+        "projectName": "MinutoSeguradoraOportunidade.Infrastructure.RSS",
+        "projectPath": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Infrastructure.RSS\\MinutoSeguradoraOportunidade.Infrastructure.RSS.csproj",
+        "packagesPath": "C:\\Users\\afarinchon\\.nuget\\packages\\",
+        "outputPath": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Infrastructure.RSS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\afarinchon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Domain\\MinutoSeguradoraOportunidade.Domain.csproj": {
+                "projectPath": "C:\\tmp\\opo\\MinutoSeguradoraOportunidade\\src\\MinutoSeguradoraOportunidade.Domain\\MinutoSeguradoraOportunidade.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

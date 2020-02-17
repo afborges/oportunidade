@@ -1,0 +1,5 @@
+D:\Projetos\TestesEmprego\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.RSS\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.RSS.deps.json
+D:\Projetos\TestesEmprego\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.RSS\bin\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.RSS.dll
+D:\Projetos\TestesEmprego\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.RSS\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.RSS.csprojAssemblyReference.cache
+D:\Projetos\TestesEmprego\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.RSS\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.RSS.AssemblyInfoInputs.cache
+D:\Projetos\TestesEmprego\MinutoSeguradoraOportunidade\src\MinutoSeguradoraOportunidade.Infrastructure.RSS\obj\Debug\netcoreapp3.1\MinutoSeguradoraOportunidade.Infrastructure.RSS.AssemblyInfo.cs
